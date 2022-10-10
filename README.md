@@ -1,5 +1,4 @@
 # Marathon-Timings-ML-model
-Project Title
 A little brief about what the project is about. It should be like a small summary format informing about the main purpose of the project.
 Motivation
 This section is for letting the reader know why you created this project, the reason behind pursuing such a project, and why you have decided to do it.
